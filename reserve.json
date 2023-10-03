@@ -1,0 +1,130 @@
+[
+    {
+        "id": 4,
+        "nom": "Daphnée",
+        "points": 8.5,
+        "rebonds": 7.5,
+        "assists": 2.5,
+        "joueuses": "images/da.png",
+        "steals": 0.5,
+        "blocks": 1.5,
+        "evaluation": 8.5      
+        
+    },
+    {
+        "id": 2,
+        "nom": "Julie",
+        "points": 3,
+        "rebonds": 2,
+        "assists": 1.5,
+        "joueuses": "images/ju.png",
+        "steals": 0,
+        "blocks": 0,
+        
+        "evaluation": 5
+        
+    },
+    {
+        "id": 3,
+        "nom": "Coralie",
+        "points": 6,
+        "rebonds": 5.5,
+        "assists": 3,
+        "joueuses": "images/cp.png",
+        "steals": 2,
+        "blocks": 0.5,
+        
+        "evaluation": 8.5
+        
+    },
+    {
+        "id": 4,
+        "nom": "Amandine",
+        "points": 8.5,
+        "rebonds": 7.5,
+        "assists": 1,
+        "joueuses": "images/am.png",
+        "steals": 3,
+        "blocks": 0.5,
+       
+        "evaluation": 13.5
+        
+    },
+    {
+        "id": 5,
+        "nom": "Jeanne A",
+        "points": 2,
+        "rebonds": 0.5,
+        "assists": 3,
+        "joueuses": "images/leo.png",
+        "steals": 1,
+        "blocks": 0,
+        
+        "evaluation": 1  
+        
+    },
+    {
+        "id": 6,
+        "nom": "Maiana",
+        "points": 1.5,
+        "rebonds": 2.5,
+        "assists": 0,
+        "joueuses": "images/maiana.png",
+        "steals": 0.5,
+        "blocks": 0.5,
+        
+        "evaluation": -2
+        
+    },
+    {
+        "id": 7,
+        "nom": "Pauline",
+        "points": 10.5,
+        "rebonds": 9.5,
+        "assists": 3.5,
+        "joueuses": "images/pop.png",
+        "steals": 6,
+        "blocks": 0,
+        
+        "evaluation": 19  
+        
+    },
+    {
+        "id": 8,
+        "nom": "Naia",
+        "points": 2,
+        "rebonds": 1,
+        "assists": 0,
+        "joueuses": "images/naia.png",
+        "steals": 0,
+        "blocks": 0,
+        
+        "evaluation": 0  
+    },
+    {
+        "id": 9,
+        "nom": "Célia",
+        "points": 11,
+        "rebonds": 3.5,
+        "assists": 2.5,
+        "joueuses": "images/ce.png",
+        "steals": 3.5,
+        "blocks": 0.4,
+        
+        "evaluation": 3  
+        
+    },
+    {
+        "id": 10,
+        "nom": "Jeanne",
+        "points": 2.5,
+        "rebonds": 1,
+        "assists": 1,
+        "joueuses": "images/jea.png",
+        "steals": 1.5,
+        "blocks": 0.5,
+        
+        "evaluation": -0.5  
+        
+    }
+]
