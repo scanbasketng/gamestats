@@ -1,150 +1,150 @@
 [
     {
-        "id": 4,
+        "id": 1,
         "nom": "Daphnée",
-        "points": 8.5,
-        "rebonds": 7.5,
-        "assists": 2.5,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 0.5,
-        "blocks": 1.5,
-        "evaluation": 8.5      
+        "Points": 8.5,
+        "Rebonds": 7.5,
+        "Assists": 2.5,
+        "Pct": 33.3,
+        "% Lancer": 100,
+        "% à 3": 0,
+        "Steals": 0.5,
+        "Blocks": 1.5,
+        "Évaluation": 8.5      
         
     },
     {
         "id": 2,
         "nom": "Julie",
-        "points": 3,
-        "rebonds": 2,
-        "assists": 1.5,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 0,
-        "blocks": 0,
+        "Points": 3,
+        "Rebonds": 2,
+        "Assists": 1.5,
+        "Pct": 50,
+        "% Lancer": 0,
+        "% à 3": 50,
+        "Steals": 0,
+        "Blocks": 0,
         
-        "evaluation": 5
+        "Évaluation": 5
         
     },
     {
         "id": 3,
         "nom": "Coralie",
-        "points": 6,
-        "rebonds": 5.5,
-        "assists": 3,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 2,
-        "blocks": 0.5,
+        "Points": 6,
+        "Rebonds": 5.5,
+        "Assists": 3,
+        "Pct": 66.7,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 2,
+        "Blocks": 0.5,
         
-        "evaluation": 8.5
+        "Évaluation": 8.5
         
     },
     {
         "id": 4,
         "nom": "Amandine",
-        "points": 8.5,
-        "rebonds": 7.5,
-        "assists": 1,
-        "steals": 3,
-        "blocks": 0.5,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
+        "Points": 8.5,
+        "Rebonds": 7.5,
+        "Assists": 1,
+        "Steals": 3,
+        "Blocks": 0.5,
+        "Pct": 41.2,
+        "% Lancer": 60,
+        "% à 3": 0,
        
-        "evaluation": 13.5
+        "Évaluation": 13.5
         
     },
     {
         "id": 5,
         "nom": "Jeanne A",
-        "points": 2,
-        "rebonds": 0.5,
-        "assists": 3,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 1,
-        "blocks": 0,
+        "Points": 2,
+        "Rebonds": 0.5,
+        "Assists": 3,
+        "Pct": 33.3,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 1,
+        "Blocks": 0,
         
-        "evaluation": 1  
+        "Évaluation": 1  
         
     },
     {
         "id": 6,
         "nom": "Maiana",
-        "points": 1.5,
-        "rebonds": 2.5,
-        "assists": 0,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 0.5,
-        "blocks": 0.5,
+        "Points": 1.5,
+        "Rebonds": 2.5,
+        "Assists": 0,
+        "Pct": 14.3,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Steals": 0.5,
+        "Blocks": 0.5,
         
-        "evaluation": -2
+        "Évaluation": -2
         
     },
     {
         "id": 7,
         "nom": "Pauline",
-        "points": 10.5,
-        "rebonds": 9.5,
-        "assists": 3.5,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 6,
-        "blocks": 0,
+        "Points": 10.5,
+        "Rebonds": 9.5,
+        "Assists": 3.5,
+        "Pct": 45,
+        "% Lancer": 66.7,
+        "% à 3": 17,
+        "Steals": 6,
+        "Blocks": 0,
         
-        "evaluation": 19  
+        "Évaluation": 19  
         
     },
     {
         "id": 8,
         "nom": "Naia",
-        "points": 2,
-        "rebonds": 1,
-        "assists": 0,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 0,
-        "blocks": 0,
+        "Points": 2,
+        "Rebonds": 1,
+        "Assists": 0,
+        "Pct": 33.3,
+        "% Lancer": 0,
+        "% à 3": 0,
+        "Steals": 0,
+        "Blocks": 0,
         
-        "evaluation": 0  
+        "Évaluation": 0  
     },
     {
         "id": 9,
         "nom": "Célia",
-        "points": 11,
-        "rebonds": 3.5,
-        "assists": 2.5,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 3.5,
-        "blocks": 0.4,
+        "Points": 11,
+        "Rebonds": 3.5,
+        "Assists": 2.5,
+        "Pct": 44.4,
+        "% Lancer": 25,
+        "% à 3": 0,
+        "Steals": 3.5,
+        "Blocks": 0.4,
         
-        "evaluation": 3  
+        "Évaluation": 3  
         
     },
     {
         "id": 10,
         "nom": "Jeanne",
-        "points": 2.5,
-        "rebonds": 1,
-        "assists": 1,
-        "Pct": 0,
-        "PcL": 0,
-        "Pc3": 0,
-        "steals": 1.5,
-        "blocks": 0.5,
+        "Points": 2.5,
+        "Rebonds": 1,
+        "Assists": 1,
+        "Pct": 14.3,
+        "% Lancer": 50,
+        "% à 3": 0,
+        "Steals": 1.5,
+        "Blocks": 0.5,
         
-        "evaluation": -0.5  
+        "Évaluation": -0.5  
         
     }
 ]
